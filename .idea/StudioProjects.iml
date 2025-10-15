@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/abc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/abc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/abc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/api_login/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/api_login/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/api_login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bt1_tuan5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bt1_tuan5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bt1_tuan5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bt_tuan3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bt_tuan3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bt_tuan3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bt_tuan4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bt_tuan4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bt_tuan4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigationBar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigationBar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigationBar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigationbar_2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigationbar_2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigationbar_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ongiuaki/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ongiuaki/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ongiuaki/build" />
+      <excludeFolder url="file://$MODULE_DIR$/qlsv2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/qlsv2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qlsv2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/qlsv_navigationbar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/qlsv_navigationbar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qlsv_navigationbar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/recipies/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/recipies/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/recipies/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sqlite/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sqlite/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sqlite/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tuan6_vd1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tuan6_vd1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tuan6_vd1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vd11/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vd11/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vd11/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vd2_tuan5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vd2_tuan5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vd2_tuan5/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
